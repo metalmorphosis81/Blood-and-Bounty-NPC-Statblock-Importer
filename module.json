@@ -2,10 +2,10 @@
   "id": "bab-statblock-importer",
   "title": "Blood & Bounty NPC Statblock Importer",
   "description": "Paste text or upload a file (text, PDF, or an image read by OCR) containing a D&D 5e monster statblock (2024 or 2014 layout) and create a dnd5e NPC actor, with icons and features pulled from the dnd5e compendiums.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "compatibility": {
     "minimum": "13",
-    "verified": "14.369"
+    "verified": "14"
   },
   "authors": [
     {
@@ -37,7 +37,7 @@
   ],
   "url": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer",
   "manifest": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer/releases/latest/download/module.json",
-  "download": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer/releases/download/v1.2.2/module.zip",
+  "download": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer/releases/download/v1.2.3/module.zip",
   "license": "LICENSE",
   "readme": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer#readme",
   "bugs": "https://github.com/metalmorphosis81/Blood-and-Bounty-NPC-Statblock-Importer/issues",
